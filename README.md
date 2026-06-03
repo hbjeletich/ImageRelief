@@ -4,7 +4,7 @@ A Unity editor tool that converts an image into a **3D displacement relief panel
 
 Open it from **Tools ▸ Image Relief**.
 
-![Image Relief — settings panel and live 3D preview](Documentation~/window.png)
+![Image Relief — settings panel and live 3D preview](Documentation/window.png)
 
 ---
 
@@ -19,7 +19,7 @@ Open it from **Tools ▸ Image Relief**.
 - **Baked normal map** via Sobel-filter gradient — adds surface detail without extra triangles.
 - **One-click export** — mesh `.asset`, normal map PNG, material, and prefab into a folder you choose.
 
-![Resulting panel created by the tool](Documentation~/hero.gif)
+![Resulting panel created by the tool](Documentation/hero.gif)
 
 ## Installation
 
