@@ -1,0 +1,22 @@
+{
+  "name": "com.hbjeletich.imagerelief",
+  "version": "1.0.0",
+  "displayName": "Image Relief",
+  "description": "Unity editor tool for converting images into 3D displacement relief panels. Drop in any image, tune the height mask and geometry settings, and export a mesh, normal map, material, and prefab ready for your scene.",
+  "unity": "2020.2",
+  "author": {
+    "name": "Helena Bjeletich",
+    "url": "https://github.com/hbjeletich"
+  },
+  "keywords": [
+    "relief",
+    "displacement",
+    "mesh",
+    "image",
+    "procedural",
+    "editor",
+    "tool"
+  ],
+  "type": "tool",
+  "license": "MIT"
+}
